@@ -1,4 +1,4 @@
-LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android, and iOS.
+﻿LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android, and iOS.
 
 [![Build Status: Windows](https://ci.appveyor.com/api/projects/status/u1a69u5o5ej1pus4?svg=true)](https://ci.appveyor.com/project/AlexSzpakowski/love)
 
@@ -94,3 +94,5 @@ Dependencies
 [love-experiments]: https://bitbucket.org/bartbes/love-experiments
 [codestyle]: https://love2d.org/wiki/Code_Style
 [android-repository]: https://bitbucket.org/MartinFelis/love-android-sdl2
+
+
